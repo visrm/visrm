@@ -5,6 +5,12 @@
   <img src="https://media2.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=6c09b9529c9ac2641712422df7f8ac2a31d6b72e9f1680fc&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <div id="badges" align="center">
+<a href="mailto:xern6852@gmail.com">
+ <img src="https://img.shields.io/badge/xern6852@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="https://www.instagram.com/crescent_.rahul">
+ <img src="https://img.shields.io/badge/crescent&#95;.rahul-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+</a><br>
 <img src="https://komarev.com/ghpvc/?username=Yvel-tal42-86&style=flat-square&color=blue" alt=""/>
 </div>
 
