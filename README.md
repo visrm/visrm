@@ -6,12 +6,12 @@
 </div>
 <div id="badges" align="center">
 <a href="mailto:xern6852@gmail.com">
- <img src="https://img.shields.io/badge/xern6852@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+ <img src="https://img.shields.io/badge/xern6852@gmail-FF2400?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 <a href="https://www.instagram.com/crescent_.rahul">
- <img src="https://img.shields.io/badge/crescent&#95;.rahul-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+ <img src="https://img.shields.io/badge/crescent&#95;.rahul-E95950.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
 </a><br>
-<img src="https://komarev.com/ghpvc/?username=Yvel-tal42-86&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Yvel-tal42-86&style=flat-square&color=brightgreen" alt=""/>
 </div>
 
 ---
