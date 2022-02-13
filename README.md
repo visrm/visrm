@@ -19,11 +19,10 @@
 
 ---
 ### :man_technologist:  About Me :
-
 - I am a coding enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: A freebie coder currently doing college degree .
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I read tech articles, watch animes and/or write stories .
+- A freebie coder currently doing college degree .
+- Exploring Technical Content Writing.
+- In my free time, I read tech articles, watch animes and/or write stories .
 
 ---
 ### :hammer_and_wrench:  Languages and Tools :
