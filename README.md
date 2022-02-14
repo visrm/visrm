@@ -43,7 +43,5 @@
 ---
 ### 📈  Stats :
 
-- Github streak
- [![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=Yvel-tal42-86&theme=dark&background=000000)](https://git.io/streak-stats)
-- Top languages 
+ [![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=Yvel-tal42-86&theme=dark&background=000000)](https://git.io/streak-stats) 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yvel-tal42-86&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
