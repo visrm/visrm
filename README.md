@@ -1,5 +1,5 @@
 <!--
-**Yvel-tal42-86/Yvel-tal42-86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**visrm/visrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=6c09b9529c9ac2641712422df7f8ac2a31d6b72e9f1680fc&rid=giphy.gif&ct=g" width="100"/>
@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/crescent_.rahul">
  <img src="https://img.shields.io/badge/crescent&#95;.rahul-E95950.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
 </a><br>
-<img src="https://komarev.com/ghpvc/?username=Yvel-tal42-86&style=flat-square&color=brightgreen" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=visrm&style=flat-square&color=brightgreen" alt=""/>
 </div>
 
 ---
@@ -43,5 +43,5 @@
 ---
 ### 📈  Stats :
 
- [![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=Yvel-tal42-86&theme=dark&background=000000)](https://git.io/streak-stats) 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yvel-tal42-86&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=visrm&theme=dark&background=000000)](https://git.io/streak-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visrm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
