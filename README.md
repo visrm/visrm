@@ -8,7 +8,7 @@
 <a href="mailto:xern6852@gmail.com">
  <img src="https://img.shields.io/badge/xern6852@gmail-FF2400?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
-<a href="https://www.instagram.com/crescent_.rahul">
+<a href="https://www.instagram.com/invites/contact/?i=1eiodgvmtqx3n&utm_content=3u6meb1">
  <img src="https://img.shields.io/badge/crescent&#95;.rahul-E95950.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
 </a><br>
 <img src="https://komarev.com/ghpvc/?username=visrm&style=flat-square&color=brightgreen" alt=""/>
