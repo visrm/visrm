@@ -24,14 +24,14 @@
 </div>
 
 ---
-### :man_technologist:  About Me :
+###  About Me 
 - I am a coding enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - A freebie coder currently doing college degree .
 - Exploring Technical Content Writing.
 - In my free time, I read tech articles, watch animes and/or write stories .
 
 ---
-### :hammer_and_wrench:  Languages and Tools :
+###  Languages and Tools 
 <div> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
@@ -41,7 +41,7 @@
 </div>
 
 ---
-### 📈  Stats :
+###  Stats 
 
  [![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=visrm&theme=dark&background=000000)](https://git.io/streak-stats) 
  &emsp; &emsp;
