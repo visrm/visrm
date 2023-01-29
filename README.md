@@ -15,12 +15,9 @@
 </div>
 
 ---
-<h1>
-  Hey there 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center"> 
-<img src="https://media2.giphy.com/media/Z5wkhg0jL0GLgTfahh/giphy.gif?cid=6c09b9529e5416ac13d80f32e03d5731f5532dfb8b631d20&rid=giphy.gif&ct=g" width="600" height="200"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="600" height="70" />
+<img src="https://media2.giphy.com/media/Z5wkhg0jL0GLgTfahh/giphy.gif?cid=6c09b9529e5416ac13d80f32e03d5731f5532dfb8b631d20&rid=giphy.gif&ct=g" width="600" height="190"/>
 </div>
 
 ---
@@ -40,7 +37,6 @@
 
 </div>
 
----
 ###  Stats 
 
  [![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=visrm&theme=dark&background=000000)](https://git.io/streak-stats) 
