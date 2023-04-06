@@ -16,8 +16,8 @@
 
 ---
 <div align="center">
-<img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="600" height="70" />
-<img src="https://media2.giphy.com/media/Z5wkhg0jL0GLgTfahh/giphy.gif?cid=6c09b9529e5416ac13d80f32e03d5731f5532dfb8b631d20&rid=giphy.gif&ct=g" width="600" height="190"/>
+<img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="600" height="100em" />
+<img src="https://media2.giphy.com/media/Z5wkhg0jL0GLgTfahh/giphy.gif?cid=6c09b9529e5416ac13d80f32e03d5731f5532dfb8b631d20&rid=giphy.gif&ct=g" width="600" height="220em"/>
 </div>
 
 ---
