@@ -2,41 +2,38 @@
 **visrm/visrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=6c09b9529c9ac2641712422df7f8ac2a31d6b72e9f1680fc&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media2.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=6c09b9529c9ac2641712422df7f8ac2a31d6b72e9f1680fc&rid=giphy.gif&ct=g" width="100"/><br/>
 </div>
 <div id="badges" align="center">
 <a href="mailto:xern6852@gmail.com">
  <img src="https://img.shields.io/badge/xern6852@gmail-FF2400?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
-<br>
-<img src="https://komarev.com/ghpvc/?username=visrm&style=flat-square&color=brightgreen" alt=""/>
 </div>
 
----
 <div align="center">
 <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="600" height="100em" />
 <img src="https://media2.giphy.com/media/Z5wkhg0jL0GLgTfahh/giphy.gif?cid=6c09b9529e5416ac13d80f32e03d5731f5532dfb8b631d20&rid=giphy.gif&ct=g" width="600" height="220em"/>
 </div>
 
 ---
-###  About Me 
+
+###  **ABOUT ME**
 - I am a coding enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - A freebie coder currently doing college degree .
 - Exploring Technical Content Writing.
 - In my free time, I read tech articles, watch animes and/or write stories .
 
----
-###  Languages and Tools 
+###  **LANGUAGES AND TOOLS**
 <div> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/> 
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/> 
 </div>
 
-###  Stats 
+###  **STATS**
 
- [![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=visrm&theme=dark&background=000000)](https://git.io/streak-stats) 
- &emsp; &emsp;
+ [![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=visrm&theme=dark&background=000000)](https://git.io/streak-stats) &emsp; &emsp;
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visrm&layout=compact)](https://github.com/visrm/github-readme-stats)
