@@ -16,15 +16,12 @@
 
 ---
 
-<div align=center>
-
 ###  **ABOUT ME**
 - I am a coding enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - A freebie coder currently doing college degree .
 - Exploring Technical Content Writing.
 - In my free time, I read tech articles, watch animes and/or write stories .
 
-</div>
 
 ###  **LANGUAGES AND TOOLS**
 <div align="center"> 
@@ -42,7 +39,6 @@
 
 ###  **STATS**
 
-<div align="center">
  [![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=visrm&theme=light)](https://git.io/streak-stats) <br/> <br/>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visrm&layout=compact)](https://github.com/visrm/github-readme-stats)
 </div>
