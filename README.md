@@ -53,6 +53,7 @@
 
 ##  STATS
 
+<div>
  [![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=visrm&theme=light)](https://git.io/streak-stats) <br/> <br/>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visrm&layout=compact)](https://github.com/visrm/github-readme-stats)
 </div>
