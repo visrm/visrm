@@ -1,15 +1,12 @@
 <!--
 **visrm/visrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=6c09b9529c9ac2641712422df7f8ac2a31d6b72e9f1680fc&rid=giphy.gif&ct=g" width="100"/><br/>
-</div>
-<div id="badges" align="center">
+<div id="badges" align="center" style="font-size:14px">
 <a href="mailto:xern6852@gmail.com">
  <img src="https://img.shields.io/badge/xern6852@gmail-FF2400?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 <a href="https://www.linkedin.com/in/rahulmurali852/">
- <img src="https://img.shields.io/badge/rahul murali-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>
+ <img src="https://img.shields.io/badge/rahul murali-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
 
@@ -25,6 +22,14 @@
 
 
 ##  LANGUAGES AND TOOLS
+### PROGRAMMING LANGUAGES 
+<div> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
+</div>
+
 ### FRONT-END DEVELOPMENT 
 <div> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -43,17 +48,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp;
 </div>
 
-### PROGRAMMING LANGUAGES 
-<div> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
-</div>
-
 ##  STATS
 
-
- [![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=visrm&theme=light)](https://git.io/streak-stats) <br/> <br/>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visrm&layout=compact)](https://github.com/visrm/github-readme-stats)
 
