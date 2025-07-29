@@ -1,7 +1,7 @@
 <!--
 **visrm/visrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<div id="badges" align="center" style="font-size:14px">
+<div id="badges" align="center">
 <a href="mailto:xern6852@gmail.com">
  <img src="https://img.shields.io/badge/xern6852@gmail-FF2400?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
@@ -15,10 +15,9 @@
 </div>
 
 ##  ABOUT ME
-- I am a coding enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- A freebie coder currently doing college degree .
-- Exploring Technical Content Writing.
-- In my free time, I read tech articles, watch animes and/or write stories .
+- I am a coding enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- A freebie coder currently doing college degree. Exploring Technical Content Writing.
+- In my free time, I read tech articles, watch animes and/or write stories.
 
 
 ##  LANGUAGES AND TOOLS
