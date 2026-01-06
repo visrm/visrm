@@ -46,8 +46,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp;
 </div>
-
-##  STATS
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visrm&layout=compact)](https://github.com/visrm/github-readme-stats)
-
