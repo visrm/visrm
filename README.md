@@ -2,8 +2,8 @@
 **visrm/visrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div id="badges" align="center">
-<a href="mailto:xern6852@gmail.com">
- <img src="https://img.shields.io/badge/xern6852@gmail-FF2400?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+<a href="mailto:yveltal4286@gmail.com">
+ <img src="https://img.shields.io/badge/yveltal4286@gmail-FF2400?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 <a href="https://www.linkedin.com/in/rahulmurali852/">
  <img src="https://img.shields.io/badge/rahul murali-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
