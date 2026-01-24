@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="600" height="96em" />
+<img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="600" height="108em" />
 </div>
 
 ##  𝔸𝔹𝕆𝕌𝕋 𝕄𝔼
