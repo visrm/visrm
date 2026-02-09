@@ -1,15 +1,6 @@
 <!--
 **visrm/visrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<div id="badges" align="center">
-<a href="mailto:yveltal4286@gmail.com">
- <img src="https://img.shields.io/badge/yveltal4286@gmail-FF2400?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
-<a href="https://www.linkedin.com/in/rahulmurali852/">
- <img src="https://img.shields.io/badge/rahul murali-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-</div>
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="600" height="108em" />
 </div>
@@ -29,8 +20,8 @@
 | <b>BACK-END DEVELOPMENT</b> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="32" height="32" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="32" height="32" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="32" height="32"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="Mysql" width="32" height="32"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="32" height="32" />&nbsp;|
 |  <b>PROGRAMMING LANGUAGES</b> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="32" height="32"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="32" height="32"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="32" height="32"/> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Mysql" alt="Mysql" width="32" height="32"/>&nbsp;|
 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=visrm&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=visrm&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ## 𝕊𝕋𝔸𝕋𝕊
 
-![GitHub Stats](https://streak-stats.demolab.com?user=visrm&theme=radical&hide_border=true)
+![](https://streak-stats.demolab.com?user=visrm&theme=radical&hide_border=true)
