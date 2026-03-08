@@ -6,12 +6,16 @@
 </div>-->
 
 ##  𝔸𝔹𝕆𝕌𝕋 𝕄𝔼
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="240">
+
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="210">
+<div>
 <b>Coding Enthusiast</b>
 <p>🚀 Actively contributing to open-source repositories.</p>
 <p>🛠 Experimenting with new technologies, building tools, and solving practical problems.</p>
 <p>🤝 Engaged in collaborative projects, code reviews, community discussions & beyond.</p>
 <p>🌱 In my free time, I read tech articles, watch animes and/or write stories.</p>
+</div>
+
 <br/>
 
 ##  𝕃𝔸ℕ𝔾𝕌𝔸𝔾𝔼𝕊 𝔸ℕ𝔻 𝕋𝕆𝕆𝕃𝕊
